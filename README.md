@@ -34,9 +34,11 @@ The chatbot uses a keyword matching strategy to identify the most relevant respo
 
 The script also includes debugging features, such as print statements and try-except blocks. These assist in identifying errors, particularly in the preprocessing and input stages, making the chatbot robust against unexpected inputs or system errors.
 
-# OUTPUT
-![Image](https://github.com/user-attachments/assets/bb8045b1-b969-46f4-8cbf-251b632920df)
+
 
 This chatbot is a practical starting point for students or developers looking to build intelligent assistants. It’s modular and extensible—developers can easily add more domain-specific queries, integrate APIs, or incorporate machine learning models for more dynamic interactions. Moreover, it provides a clean example of how to use NLP libraries like NLTK for conversational applications.
 
 In conclusion, this chatbot exemplifies the foundational principles of conversational AI using Python and rule-based logic. It’s lightweight, easy to maintain, and a perfect base for developing into a more complex virtual assistant.
+
+# OUTPUT
+![Image](https://github.com/user-attachments/assets/bb8045b1-b969-46f4-8cbf-251b632920df)
